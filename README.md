@@ -5,7 +5,7 @@
 We will be investigating the accuracy and efficiency of converting images containing printable characters to text that a machine can recognize. This is interesting because there is text all around us in many different forms and fonts and being able to convert this into a digital medium would enable us to use computers to further process it, possibly into other mediums.
 
 ## What reading will you examine to provide context and background? 
-https://nanonets.com/blog/deep-learning-ocr/ 
+https://nanonets.com/blog/deep-learning-ocr/  
 We will be referencing the above link to provide context of machine learning and computer text reading. The link includes sample code and examples of text reading that would be invaluable in obtaining data.
 What data will you use? If you are collecting new data, how will you do it?
 The data we will use will be a dataset of images containing text, annotated with the text data itself.
