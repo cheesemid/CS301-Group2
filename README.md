@@ -7,7 +7,8 @@ We will be investigating the accuracy and efficiency of converting images contai
 ## What reading will you examine to provide context and background? 
 https://nanonets.com/blog/deep-learning-ocr/  
 We will be referencing the above link to provide context of machine learning and computer text reading. The link includes sample code and examples of text reading that would be invaluable in obtaining data.
-What data will you use? If you are collecting new data, how will you do it?
+
+## What data will you use? If you are collecting new data, how will you do it?
 The data we will use will be a dataset of images containing text, annotated with the text data itself.
 
 ## What method or algorithm are you proposing? If there are existing implementations, will you use them and how? How do you plan to improve or modify such implementations? You don’t have to have an exact answer at this point, but you should have a general sense of how you will approach the problem you are working on.
